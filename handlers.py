@@ -3,8 +3,12 @@ from moderation import verificar_palavras_proibidas, is_admin
 from courses import buscar_cursos, adicionar_curso
 
 USUARIOS_AUTORIZADOS = {
-    1910472568,        # Seu user ID
-    '@devgege'         # Username em minúsculo e sem @ para facilitar comparação
+    1910472568, 580148899,     # Seu user ID
+    '@devgege',
+    '@NVPanda',
+    '@andiimscofield',
+    '@grub_install'
+           # Username em minúsculo e sem @ para facilitar comparação
 }
 
 def is_authorized_user(message):
@@ -65,3 +69,4 @@ def send_courses(bot, message):
         bot.send_message(message.chat.id, resposta, reply_markup=keyboard)
     else:
         bot.reply_to(message, "Nenhum curso encontrado para esse termo.")
+

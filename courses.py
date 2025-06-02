@@ -43,3 +43,4 @@ def buscar_cursos(termo_busca):
                 break
 
     return resultados
+

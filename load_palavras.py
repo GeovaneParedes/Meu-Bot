@@ -7,3 +7,4 @@ def carregar_palavras_proibidas(caminho_arquivo='palavras_proibidas.json'):
     except (FileNotFoundError, json.JSONDecodeError) as e:
         print(f"Erro ao carregar palavras proibidas: {e}")
         return []
+

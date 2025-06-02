@@ -28,3 +28,4 @@ def verificar_palavras_proibidas(bot, message):
             bot.send_message(chat_id=message.chat.id, text=mensagem_alterada)
         except Exception as e:
             print(f"Erro ao moderar mensagem: {e}")
+
