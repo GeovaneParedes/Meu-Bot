@@ -1,0 +1,12 @@
+[
+        {"palavra": "bostil", "troca": "Brasil"},
+        {"palavra": "bostileiro", "troca": "brasileiro"},
+        {"palavra": "curso", "troca": "receita"},
+        {"palavra": "Curso", "troca": "receita"},
+        {"palavra": "Lula", "troca": "Cuidado! Proibido!"},
+        {"palavra": "Bolsonaro", "troca": "Cuidado! Proibido!"},
+        {"palavra": "cursos", "troca": "receitas"},
+        {"palavra": "Cursos", "troca": "receitas"},
+        {"palavra": "Bostileiro", "troca": "Brasileiro"},
+        {"palavra": "Bostil", "troca": "Brasil"}
+    ]
