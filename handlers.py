@@ -5,9 +5,6 @@ from courses import buscar_cursos, adicionar_curso
 USUARIOS_AUTORIZADOS = {
     1910472568, 580148899,     # Seu user ID
     '@devgege',
-    '@NVPanda',
-    '@andiimscofield',
-    '@grub_install'
            # Username em minúsculo e sem @ para facilitar comparação
 }
 
