@@ -1,7 +1,7 @@
-Telegram Bot: DevProgrammer - Version 0.1.0
+Telegram Bot: DevProgramadorbot - Version 0.1.0
 Explanation in English:
 
-This Telegram bot, named DevProgrammer, is designed to assist users in finding programming-related courses and to help administer a Telegram group by moderating messages.
+This Telegram bot, named DevProgramadorbot, is designed to assist users in finding programming-related courses and to help administer a Telegram group by moderating messages.
 
 Features
 Course Management
@@ -96,8 +96,8 @@ palavras_proibidas.json: A JSON file containing the list of words to be moderate
 
 Explicação em Portugues-BR:
 
-Bot Telegram: DevProgrammer - Versão 0.1.0
-Este bot para Telegram, chamado DevProgrammer, foi desenvolvido para ajudar usuários a encontrar cursos relacionados à programação e auxiliar na administração de grupos do Telegram através da moderação de mensagens.
+Bot Telegram: DevProgramadorbot - Versão 0.1.0
+Este bot para Telegram, chamado DevProgramador, foi desenvolvido por mim, para ajudar usuários a encontrar cursos relacionados à programação(obs. Cursos estes disponíveis no Telegram e somente encaminha o usuário a canais externos) e auxiliar na administração de grupos do Telegram através da moderação de mensagens.
 
 Funcionalidades
 Gestão de Cursos
